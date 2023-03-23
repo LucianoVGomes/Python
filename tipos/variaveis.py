@@ -16,4 +16,4 @@ PI = 3.14
 raio = float(input('Informe o raio da circ? '))
 area = PI * pow(raio, 2)
 
-print(f'A área da circ é {area} m2.')
+print(f'A área da circ é {area} m2.') 
